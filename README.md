@@ -1,4 +1,4 @@
-Cet application permet de créer des tâches de révision espacées selon la courbe d'Ebbinghaus à l'aide de l'API Google Tasks en nodejs.
+Cette application permet de créer des tâches de révision espacées selon la courbe d'Ebbinghaus à l'aide de l'API Google Tasks en nodejs.
 Son utilisation nécessite l'installation de Node.JS, de express js et de handlebars.
 
 Afin d'utiliser ce programme il est nécessaire de suivre les instructions https://developers.google.com/workspace/tasks/quickstart/nodejs?hl=fr en veillant à bien donner l'autorisation de créer des tâches.
